@@ -13,7 +13,8 @@
       "cflags_cc!": [ "-fno-exceptions" ],
       "include_dirs": [
         "/usr/local/include/lucene++",
-        "/usr/local/include"
+        "/usr/local/include",
+        "/home/travis/installprefix/include/lucene++"
       ],
     }
   ]

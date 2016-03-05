@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.3)
+cmake_minimum_required(VERSION 3.2)
 project(searcher)
 
 # from https://cmake.org/pipermail/cmake/2008-January/019321.html
